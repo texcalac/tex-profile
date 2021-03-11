@@ -1,27 +1,26 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Mi área de interés se centra en el desarrollo de modelos de análisis espacial para la estimación de exposición humana a contaminantes ambientales usando R
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Candidato a Dr. en Geografía
+    institution: Universidad Nacional Autónoma de México
+    year: ""
+  - course: Maestro en Ciencias en Salud Ambiental
+    institution: Instituto Nacional de Salud Pública
+    year: ""
+  - course: Lic. Planif. para el Desarrollo Agropecuario
+    institution: Universidad Nacional Autónoma de México
+    year: ""
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Aire y salud
+- Análisis espacial
+- Geoprocesamiento en R
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Instituto Nacional de Salud Pública
+  url: https://www.insp.mx
+role: Investigador en Ciencias Médicas &nbsp; SNI-I
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,23 +29,24 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  label: Yo en Twitter
+  link: https://twitter.com/texcalac
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://texcalac.github.io/erreando/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=L2Q2fI4AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jose-Luis-Texcalac-Sangrador
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4507-9237
 superuser: true
-title: Nelson Bighetti
+title: José Luis Texcalac Sangrador
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Investigador del Instituto Nacional de Salud Pública y miembro del Sistema Nacional de Investigadores Nivel I. Responsable y coinvestigador en diversos proyectos de investigación en temas de calidad del aire y efectos a la salud.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Su campo de trabajo se centra en el análisis espacial de eventos en salud y su vínculo con problemas ambientales. Su área de experiencia incluye la aplicación y desarrollo de métodos para la estimación de la concentración-exposición a contaminantes atmosféricos utilizando el software R.
