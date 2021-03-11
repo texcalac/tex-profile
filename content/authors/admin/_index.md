@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Instituto Nacional de Salud Pública
   url: https://www.insp.mx
-role: Investigador en Ciencias Médicas  SNI-I
+role: Investigador en Ciencias Médicas &nbsp; SNI-I
 social:
 - icon: envelope
   icon_pack: fas
