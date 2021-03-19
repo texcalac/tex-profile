@@ -8,7 +8,7 @@ education:
   - course: MSc Environmental Health
     institution: National Institute of Public Health of Mexico (INSP)
     year: ""
-  - course: Lic. Planif. para el Desarrollo Agropecuario
+  - course: Bachelor in Agricultural Development Planning (PDA)
     institution: National Autonomous University of Mexico (UNAM)
     year: ""
 email: ""
