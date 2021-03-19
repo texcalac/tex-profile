@@ -5,7 +5,7 @@ author_notes:
 authors: 
 - Martha M.Téllez-Rojo
 - Stephen J.Rothenberg
-- José Luis Texcalac-Sangrador
+- "**José Luis Texcalac-Sangrador**"
 - Allan C.Just
 - Itai Kloog
 - Liliana Paloma Rojas-Saunero
