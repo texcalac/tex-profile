@@ -2,21 +2,21 @@
 bio: Mi área de interés se centra en el desarrollo de modelos de análisis espacial para la estimación de exposición humana a contaminantes ambientales usando R
 education:
   courses:
-  - course: Candidato a Dr. en Geografía
-    institution: Universidad Nacional Autónoma de México
+  - course: Phd Candidate in Geography
+    institution: National Autonomous University of Mexico (UNAM)
     year: ""
-  - course: Maestro en Ciencias en Salud Ambiental
-    institution: Instituto Nacional de Salud Pública
+  - course: MSc Environmental Health
+    institution: National Institute of Public Health of Mexico (INSP)
     year: ""
   - course: Lic. Planif. para el Desarrollo Agropecuario
-    institution: Universidad Nacional Autónoma de México
+    institution: National Autonomous University of Mexico (UNAM)
     year: ""
 email: ""
 highlight_name: false
 interests:
-- Aire y salud
-- Análisis espacial
-- Geoprocesamiento en R
+- Air pollution and health
+- Spatial Analysis
+- Geocomputation with R
 organizations:
 - name: Instituto Nacional de Salud Pública
   url: https://www.insp.mx
