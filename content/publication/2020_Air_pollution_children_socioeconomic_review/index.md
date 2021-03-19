@@ -30,7 +30,7 @@ publication_types:
 publishDate: "2020-06-01T00:00:00Z"
 tags:
 - Source Themes
-title: Air pollution and children’s respiratory health: a scoping review of socioeconomic status as an effect modifier
+title: "Air pollution and children’s respiratory health: a scoping review of socioeconomic status as an effect modifier"
 url_pdf: https://doi.org/10.1007/s00038-020-01378-3
 url_poster: ""
 url_project: ""
