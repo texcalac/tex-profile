@@ -15,7 +15,7 @@ email: ""
 highlight_name: false
 interests:
 - Air pollution and health
-- Spatial Analysis
+- Spatial Epidemiology
 - Geocomputation with R
 organizations:
 - name: Instituto Nacional de Salud Pública
