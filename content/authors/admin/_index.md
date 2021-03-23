@@ -49,4 +49,4 @@ title: José Luis Texcalac Sangrador
 
 Researcher at The National Institute of Public Health of Mexico (INSP) and member of The National Research System (SNI) of Mexico. He is a principal investigator and co-investigator of several research projects related with air pollution and health effects.
 
-Su campo de trabajo se centra en el análisis espacial de eventos en salud y su vínculo con problemas ambientales. Su área de experiencia incluye la aplicación y desarrollo de métodos para la estimación de la concentración-exposición a contaminantes atmosféricos utilizando el software R.
+His work focuses on spatial analysis of health effects associated with environmental pollutant exposure. His research interests include development and application of methods to estimating human exposure to atmospheric pollutants using R software, GIS, spatial statistics and spatial epidemiology.
