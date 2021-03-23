@@ -18,9 +18,9 @@ interests:
 - Spatial Epidemiology
 - Geocomputation with R
 organizations:
-- name: Instituto Nacional de Salud Pública
+- name: National Institute of Public Health of Mexico
   url: https://www.insp.mx
-role: Investigador en Ciencias Médicas <br> SNI - I
+role: Medical Sciences Researcher
 social:
 - icon: envelope
   icon_pack: fas
