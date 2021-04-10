@@ -7,13 +7,13 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-  title: English
+  title: José Luis Texcalac Sangrador
 
 # Uncomment the lines below to configure your website in a second language.
 es:
   languageCode: es
   contentDir: content/es
-  title: Español
+  title: José Luis Texcalac Sangrador
   params:
     description: Sitio en español
   menu:
