@@ -9,7 +9,7 @@ authors:
 - Félix-Arellano EE
 - Schilmann A
 - Hurtado-Díaz M
-- Texcalac-Sangrador JL
+- "**Texcalac-Sangrador JL**"
 - Riojas-Rodríguez H
 date: "2020-09-01T00:00:00Z"
 doi: https://doi.org/10.21149/11481
