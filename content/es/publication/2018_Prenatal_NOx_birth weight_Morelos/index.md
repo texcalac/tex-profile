@@ -7,7 +7,7 @@ authors:
 - Barraza-Villarreal A
 - Hernandez-Cadena L
 - Hinojosa de la Garza O
-- Texcalac-Sangrador JL
+- "**Texcalac-Sangrador JL**"
 - Elvira Torres-Sanchez L
 - Cortez-Lugo M
 - Escamilla-Nuñez C
