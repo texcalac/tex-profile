@@ -1,7 +1,5 @@
 ---
-abstract: "The Child-Mother binomial is potentially susceptible to the toxic effects of pollutants because some chemicals interfere with placental transfer of nutrients, thus affecting fetal development, and create an increased the risk of low birth weight, prematurity and intrauterine growth restriction.
-Objective: To evaluate the impact of prenatal exposure to nitrogen oxides (NOx) on birth weight in a cohort of Mexican newborns.
-Methodology: We included 745 mother-child pair participants of the POSGRAD cohort study. Information on socio-demographic characteristics, obstetric history, health history and environmental exposure during pregnancy were readily available and the newborns' anthropometric measurements were obtained at delivery. Prenatal NOx exposure assessment was evaluated using a Land-Use Regression predictive models considering local monitoring from 60 sites on the State of Morelos. The association between prenatal exposure to NOx and birth weight was estimated using a multivariate linear regression models".
+abstract: Prueba.
 author_notes:
 - ""
 authors: 
